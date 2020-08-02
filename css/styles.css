@@ -1,0 +1,300 @@
+html{
+  height: 100%;
+}
+body{
+  min-height: 100%;
+  background-color: hsl(270, 20%, 98%);
+}
+.avatar{
+  height: 15px;
+  width: 15px;
+  border: 1px solid white;
+  border-radius: 10px;
+  position: relative;
+  left: 20px;
+  bottom: 15px;
+}
+h1{
+  font-size: 8px;
+  color: hsl(0, 0%, 90%);
+  position: relative;
+  bottom: 40px;
+  left: 45px;
+}
+h2{
+  font-size: 5px;
+  color: hsl(276, 100%, 81%);
+  position: relative;
+  bottom: 45px;
+  left: 45px;
+}
+.div1{
+  height: 500px;
+  width: 400px;
+  background-image: linear-gradient(to bottom, hsl(293, 100%, 63%), hsl(264, 100%, 61%));
+  border-bottom-left-radius: 48%;
+  border-bottom-right-radius: 48%;
+  position: relative;
+  right: 90px;
+}
+.div2{
+  height: 340px;
+  width: 170px;
+  background-color: white;
+  position: relative;
+  bottom: 380px;
+  left: 270px;
+  border-radius: 20px;
+}
+.div3{
+  height: 320px;
+  width: 150px;
+  background-color: hsl(270, 20%, 96%);
+  position: relative;
+  bottom: 710px;
+  left: 280px;
+  border-radius: 15px;
+}
+.div4{
+  position: absolute;
+  right: 30px;
+  height: 3%;
+  width: 60%;
+  background-color: white;
+  border-radius: 0 0 10px 10px;
+}
+.diva{
+  height: 13%;
+  width: 150px;
+  position: absolute;
+  background-image: linear-gradient(to left, hsl(293, 100%, 63%), hsl(264, 100%, 61%));
+  border-radius: 10px 10px 5px 5px;
+}
+.p1{
+  color: white;
+  position: relative;
+  font-size: 10px;
+  font-stretch: ultra-expanded;
+  left: 10px;
+  top:10px;
+}
+.test:after {
+
+  content: '\2807';
+  color: hsl(0, 0%, 90%);
+  position: relative;
+  bottom: 70px;
+  left: 130px;
+}
+.left-text1{
+  font-size: 7px;
+  color: hsl(276, 55%, 52%);
+  position: absolute;
+  top :40px;
+  left:5px;
+  border-radius: 7px 7px 7px 5px;
+  background-color: hsl(270, 20%, 90%);
+  width: 54%;
+  padding: 5px;
+}
+.left-text2{
+  font-size: 7px;
+  color: hsl(276, 55%, 52%);
+  position: absolute;
+  top :70px;
+  left:5px;
+  border-radius: 7px 7px 7px 5px;
+  background-color: hsl(270, 20%, 90%);
+  width: 54%;
+  padding: 5px;
+}
+.img1{
+  position: absolute;
+  height: 25px;
+  width: 25px;
+  top : 110px;
+  right: 70px;
+  border-radius: 5px;
+}
+.img2{
+  position: absolute;
+  height: 25px;
+  width: 25px;
+  top : 110px;
+  right: 40px;
+  border-radius: 5px;
+}
+.img3{
+  position: absolute;
+  height: 25px;
+  width: 25px;
+  top : 110px;
+  right: 10px;
+  border-radius: 5px;
+}
+.right-text1{
+  font-size: 7px;
+  color: hsl(271, 15%, 43%);
+  background-color: white;
+  position: absolute;
+  top :135px;
+  right:5px;
+  border-radius: 7px 7px 7px 5px;
+  width: 54%;
+  padding: 5px;
+}
+.right-text2{
+  font-size: 7px;
+  color: hsl(271, 15%, 43%);
+  background-color: white;
+  position: absolute;
+  top :165px;
+  right:5px;
+  border-radius: 7px 7px 7px 5px;
+  width: 35%;
+  padding: 5px;
+}
+.left-text3{
+  font-size: 7px;
+  color: hsl(276, 55%, 52%);
+  position: absolute;
+  top :190px;
+  left:5px;
+  border-radius: 7px 7px 7px 5px;
+  background-color: hsl(270, 20%, 90%);
+  width: 54%;
+  padding: 5px;
+
+}
+.radio-button1{
+  width: 70%;
+  height: 20px;
+  background-image: linear-gradient(to right, hsl(293, 100%, 63%), hsl(264, 100%, 61%));
+  position: absolute;
+  top: 240px;
+  left : 7px;
+  border-radius: 5px 5px 5px 2px;
+}
+.circle{
+  position: relative;
+  top: 5px;
+  left: 5px;
+  height: 8px;
+  width: 8px;
+  border-radius: 100%;
+  border: 0.5px solid hsl(289, 100%, 72%);
+  background-color: hsl(293, 100%, 63%);
+
+}
+.walk1{
+  font-size: 6px;
+  position: relative;
+  left: 20px;
+  bottom: 8px;
+  color: hsl(0, 0%, 90%);
+  font-family: 'Rubik', sans-serif;
+
+}
+.price1{
+  position: relative;
+  bottom : 28px;
+  left: 75px;
+  font-size: 10px;
+  font-weight: bold;
+  color: white;
+  font-family: 'Rubik', sans-serif;
+}
+.radio-button2{
+  width: 70%;
+  height: 20px;
+  background-image: linear-gradient(to right, hsl(293, 100%, 63%), hsl(264, 100%, 61%));
+  position: absolute;
+  top: 265px;
+  left : 7px;
+  border-radius: 5px 5px 5px 2px;
+}
+.walk2{
+  font-size: 6px;
+  position: relative;
+  left: 20px;
+  bottom: 8px;
+  color: hsl(0, 0%, 90%);
+  font-family: 'Rubik', sans-serif;
+}
+.price2{
+  position: relative;
+  bottom : 28px;
+  left: 75px;
+  font-size: 10px;
+  font-weight: bold;
+  color: white;
+  font-family: 'Rubik', sans-serif;
+}
+.typing{
+  height: 20px;
+  width: 90%;
+  background-color: white;
+  position: absolute;
+  top: 292px;
+  left: 7px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius:10px;
+}
+.message{
+  font-family: 'Rubik', sans-serif;
+  font-size: 6px;
+  position: relative;
+  left: 8px;
+  top: 2px;
+  color: hsl(0, 0%, 90%);
+}
+.submit{
+  height: 18px;
+  width: 18px;
+  border-radius: 100%;
+  background-color: hsl(271, 36%, 24%);
+  position: relative;
+  left: 113px;
+  bottom: 28px;
+}
+.submit-button{
+position: relative;
+  left: 5px;
+  color: white;
+}
+.div5{
+  height: 500px;
+  width: 500px;
+  position: relative;
+  left: 570px;
+  bottom:1600px;
+}
+.heading{
+  color: hsl(271, 36%, 24%);
+  font-family: 'Rubik', sans-serif;
+  font-weight: bold;
+  font-size: 30px;
+  position: absolute;
+  top: 150px;
+
+}
+.stay{
+color: hsl(270, 7%, 64%);
+font-family: 'Rubik', sans-serif;
+font-size: 15px;
+position: absolute;
+top: 200px;
+width: 420px;
+}
+.div6{
+  height: 500px;
+  width: 400px;
+  background-color: hsl(270, 20%, 96%);
+  border-top-left-radius: 48%;
+  border-top-right-radius: 48%;
+  position: relative;
+  left: 950px;
+  bottom: 1100px;
+}
